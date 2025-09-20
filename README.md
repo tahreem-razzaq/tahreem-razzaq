@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tahreem Razzaq
 
-🔬 M.Phil Molecular Biologist Student | Python Practitioner | Data Science Enthusiast
+🔬 M.Phil Biotechlogist Student | Python Practitioner | Data Science Enthusiast
 
 I’m currently diving deep into **Molecular biology, while expanding my skills in **Python, **Data Science, and **Bioinformatics to support research that matters.
 
